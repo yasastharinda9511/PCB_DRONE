@@ -13,8 +13,13 @@
 
 ## Final Implementation
 
+This circuit is printedby JLC PCB.
+
+## Top Side
+
 ![xyz1](https://user-images.githubusercontent.com/37435024/100574453-162d0d80-3300-11eb-870d-ea625b491942.jpg)
 
+## Bottom Side
 ![xyz](https://user-images.githubusercontent.com/37435024/100574191-753e5280-32ff-11eb-81cf-46ac0eda9d96.jpg)
 
 
